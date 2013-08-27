@@ -1,0 +1,10 @@
+March 8, 1998  v2.01
+-------------
+
+- single backslash now works as expected
+- non-standard trailing backslash stripped after directory name
+
+November 21, 1997
+-----------------
+
+- Open 2.0 release

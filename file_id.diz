@@ -1,0 +1,13 @@
+       Open 2.0
+======================
+Opens objects from the
+command line.
+
+Features:
+ - Foreground Open
+ - Folder Filtering
+ - Wildcards
+ - Multiple Parameters
+ - Different Object
+   Views
+ - Opens _any_ objects
